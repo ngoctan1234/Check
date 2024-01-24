@@ -6,6 +6,7 @@ function App() {
         <div>
             <h1>Tìm hiểu reactjs</h1>
             <p>Các components</p>
+            <h2>UseState và useEffect</h2>
         </div>
     );
 }
